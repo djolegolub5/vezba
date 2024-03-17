@@ -1,0 +1,7 @@
+C:\Users\DJOLE\Desktop\vezba\obj\Debug\vezba.csproj.AssemblyReference.cache
+C:\Users\DJOLE\Desktop\vezba\obj\Debug\vezba.csproj.CoreCompileInputs.cache
+C:\Users\DJOLE\Desktop\vezba\bin\Debug\vezba.exe.config
+C:\Users\DJOLE\Desktop\vezba\bin\Debug\vezba.exe
+C:\Users\DJOLE\Desktop\vezba\bin\Debug\vezba.pdb
+C:\Users\DJOLE\Desktop\vezba\obj\Debug\vezba.exe
+C:\Users\DJOLE\Desktop\vezba\obj\Debug\vezba.pdb
