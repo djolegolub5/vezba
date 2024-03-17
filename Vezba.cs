@@ -11,8 +11,6 @@ namespace vezba
         static void Main(string[] args)
         {
             Console.WriteLine("AA");
-            Console.WriteLine("AABB");
-
         }
     }
 }
